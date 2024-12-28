@@ -52,4 +52,6 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
     //Picasso
     implementation ("com.squareup.picasso:picasso:2.8")
+    //ImagePicker
+    implementation ("com.github.dhaval2404:imagepicker:2.1")
 }
